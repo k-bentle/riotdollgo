@@ -9,6 +9,7 @@
     <ApplicationIcon></ApplicationIcon>
     <AssemblyName>riotdollgo</AssemblyName>
     <RootNamespace>riotdollgo</RootNamespace>
+    <DockerComposeProjectPath>docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>
